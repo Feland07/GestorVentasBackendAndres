@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andres\\Documents\\GestorVentasBackend\\GestorVentas_Backend\\GestorVentas_Backend.csproj": {}
+    "C:\\Users\\Andres\\Documents\\GestorVentasBackendAndres\\GestorVentas_Backend\\GestorVentas_Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andres\\Documents\\GestorVentasBackend\\GestorVentas_Backend\\GestorVentas_Backend.csproj": {
+    "C:\\Users\\Andres\\Documents\\GestorVentasBackendAndres\\GestorVentas_Backend\\GestorVentas_Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andres\\Documents\\GestorVentasBackend\\GestorVentas_Backend\\GestorVentas_Backend.csproj",
+        "projectUniqueName": "C:\\Users\\Andres\\Documents\\GestorVentasBackendAndres\\GestorVentas_Backend\\GestorVentas_Backend.csproj",
         "projectName": "GestorVentas_Backend",
-        "projectPath": "C:\\Users\\Andres\\Documents\\GestorVentasBackend\\GestorVentas_Backend\\GestorVentas_Backend.csproj",
+        "projectPath": "C:\\Users\\Andres\\Documents\\GestorVentasBackendAndres\\GestorVentas_Backend\\GestorVentas_Backend.csproj",
         "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andres\\Documents\\GestorVentasBackend\\GestorVentas_Backend\\obj\\",
+        "outputPath": "C:\\Users\\Andres\\Documents\\GestorVentasBackendAndres\\GestorVentas_Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
